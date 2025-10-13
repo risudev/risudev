@@ -46,9 +46,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en" alt="risudev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risudev&theme=blue-green&hide_border=false" alt="risudev" /></p>
-
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=risudev&hide_border=false&show_icons=true&locale=en&bg_color=000000" alt="risudev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risudev&background=000000&border=000000" alt="risudev" />
 </p>
+
+
 
