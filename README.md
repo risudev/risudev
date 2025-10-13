@@ -5,6 +5,8 @@
 <p align="justify">A highly motivated and adaptable professional seeking to transition into a new career in Software profession. I am eager to leverage my transferable skills and passion for IT industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. I am committed to continuous learning and development, and excited to embrace new challenges and opportunities in my career transition.</p>
 
 - 🌱 I’m currently learning **FullStack Development**
+- 📫 How to reach me **risudeveloper@gmail.com**
+-  ⚡ Fun fact **I'm O+ve Guy 😎😎**
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
@@ -25,10 +27,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-FF3E00?logo=render&logoColor=white)
-
-- 📫 How to reach me **risudeveloper@gmail.com**
-
--  ⚡ Fun fact **I'm O+ve Guy 😎😎**
 
  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
