@@ -19,12 +19,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) <br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) <br> 
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) <br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) <br> 
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) <br> 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
