@@ -4,7 +4,7 @@
 
 <p align="justify">A highly motivated and adaptable professional seeking to transition into a new career in Software profession. I am eager to leverage my transferable skills and passion for IT industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. I am committed to continuous learning and development, and excited to embrace new challenges and opportunities in my career transition.</p>
 
-<img align="right"  alt="Coding" width="250" src="https://user-images.githubusercontent.com/95962151/158759152-a2f4aab6-12d8-4cab-b913-ad8e3b11aacd.gif">
+<img align="right"  alt="Coding" width="300" src="https://user-images.githubusercontent.com/95962151/158759152-a2f4aab6-12d8-4cab-b913-ad8e3b11aacd.gif">
 
 - 🌱 I’m currently learning **MERN Stack Development in Guvi**
 - 📫 How to reach me **risudeveloper@gmail.com**
