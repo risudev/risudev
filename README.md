@@ -9,6 +9,11 @@
 - 🌱 I’m currently learning **FullStack Development**
 
 - 💬 Ask me about **HTML5,CSS3,Tailwindcss,Javascript,ReactJs,MySQL,MongoDB,NodeJs,ExpressJs,Postman**
+  💻 **Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
 - 📫 How to reach me **risudeveloper@gmail.com**
 
