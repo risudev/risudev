@@ -4,8 +4,6 @@
 
 <p align="justify">A highly motivated and adaptable professional seeking to transition into a new career in Software profession. I am eager to leverage my transferable skills and passion for IT industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. I am committed to continuous learning and development, and excited to embrace new challenges and opportunities in my career transition.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risudev&label=Profile%20views&color=0e75b6&style=flat" alt="risudev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risudev" alt="risudev" /></a> </p>
 
 - 🌱 I’m currently learning **FullStack Development**
@@ -38,11 +36,13 @@
 
  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h3 align="left">Connect with me:</h3>
+# 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/risudeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risudeveloper" height="30" width="40" /></a>
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=risudev&label=Profile%20views&color=0e75b6&style=flat" alt="risudev" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risudev&show_icons=true&locale=en&layout=compact" alt="risudev" /></p>
 
