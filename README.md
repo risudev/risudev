@@ -46,6 +46,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en" alt="risudev" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risudev&theme=blue-green&hide_border=false" alt="risudev" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=risudev&theme=blue-green&hide_border=false)<br/>
 
 
