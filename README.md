@@ -11,9 +11,24 @@
 - 💬 Ask me about **HTML5,CSS3,Tailwindcss,Javascript,ReactJs,MySQL,MongoDB,NodeJs,ExpressJs,Postman**
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-FF3E00?logo=render&logoColor=white)
 
 - 📫 How to reach me **risudeveloper@gmail.com**
 
