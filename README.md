@@ -38,20 +38,20 @@
 <a href="https://linkedin.com/in/risudeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risudeveloper" height="30" width="40" /></a>
 </p>
 
+# 📊 GitHub Stats:
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risudev" alt="risudev" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risudev&label=Profile%20views&color=0e75b6&style=flat" alt="risudev" /> </p>
 
-# 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en&layout=compact" alt="risudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en" alt="risudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risudev&theme=blue-green&hide_border=false" alt="risudev" /></p>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en&layout=compact" alt="risudev" /></p>
 
 
 
