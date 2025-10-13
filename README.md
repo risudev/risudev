@@ -50,7 +50,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risudev" alt="risudev" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=risudev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 
