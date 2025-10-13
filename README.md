@@ -42,13 +42,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risudev&label=Profile%20views&color=0e75b6&style=flat" alt="risudev" /> </p>
 
+# 📊 GitHub Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en&layout=compact" alt="risudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risudev&theme=blue-green&hide_border=falseshow_icons=true&locale=en" alt="risudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risudev&theme=blue-green&hide_border=false" alt="risudev" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=risudev&theme=blue-green&hide_border=false)<br/>
+
 
 
 
