@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riswan N</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risudev&label=Profile%20views&color=0e75b6&style=flat" alt="risudev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risudev" alt="risudev" /></a> </p>
@@ -12,6 +10,8 @@
 - 💬 Ask me about **HTML5,CSS3,Tailwindcss,Javascript,ReactJs,MySQL,MongoDB,NodeJs,ExpressJs,Postman**
 
 - 📫 How to reach me **risudeveloper@gmail.com**
+
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
